@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="nDataService\nEntityServices\nActionTransferEnties\**" />
+    <EmbeddedResource Remove="nDataService\nEntityServices\nActionTransferEnties\**" />
+    <None Remove="nDataService\nEntityServices\nActionTransferEnties\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Base.Boundary\Base.Boundary.csproj" />
+    <ProjectReference Include="..\Base.Core\Base.Core.csproj" />
+    <ProjectReference Include="..\Base.Data\Base.Data.csproj" />
+    <ProjectReference Include="..\Data.Boundary\Data.Boundary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetZip" Version="1.15.0" />
+    <PackageReference Include="Iyzipay" Version="2.1.39" />
+    <PackageReference Include="RestSharp" Version="106.11.7" />
+  </ItemGroup>
+
+</Project>

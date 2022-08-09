@@ -1,0 +1,1607 @@
+{
+  "Level": "BPA Clever #0000",
+  "Steps": [
+    {
+      "StepColorType": "Red",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 4,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 0
+        }
+      },
+      "StepNo": 1
+    },
+    {
+      "StepColorType": "Green",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 4,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 0
+        }
+      },
+      "StepNo": 2
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 4,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 0
+        }
+      },
+      "StepNo": 3
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 0
+        }
+      },
+      "StepNo": 4
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 0
+        }
+      },
+      "StepNo": 5
+    },
+    {
+      "StepColorType": "Purple",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 0
+        }
+      },
+      "StepNo": 6
+    },
+    {
+      "StepColorType": "Orange",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 1
+        }
+      },
+      "StepNo": 7
+    },
+    {
+      "StepColorType": "Orange",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 1
+        }
+      },
+      "StepNo": 8
+    },
+    {
+      "StepColorType": "Red",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 2
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 1
+        }
+      },
+      "StepNo": 9
+    },
+    {
+      "StepColorType": "Purple",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 2
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 1
+        }
+      },
+      "StepNo": 10
+    },
+    {
+      "StepColorType": "Purple",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 2
+        }
+      },
+      "StepNo": 11
+    },
+    {
+      "StepColorType": "Red",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 3
+        }
+      },
+      "StepNo": 12
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 3
+        }
+      },
+      "StepNo": 13
+    },
+    {
+      "StepColorType": "Red",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 3
+        }
+      },
+      "StepNo": 14
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 3
+        }
+      },
+      "StepNo": 15
+    },
+    {
+      "StepColorType": "Orange",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 4
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 3
+        }
+      },
+      "StepNo": 16
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 2
+        }
+      },
+      "StepNo": 17
+    },
+    {
+      "StepColorType": "Green",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 2
+        }
+      },
+      "StepNo": 18
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 2
+        }
+      },
+      "StepNo": 19
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 2
+        }
+      },
+      "StepNo": 20
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 2,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 3
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 2
+        }
+      },
+      "StepNo": 21
+    },
+    {
+      "StepColorType": "Purple",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 3
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 2
+        }
+      },
+      "StepNo": 22
+    },
+    {
+      "StepColorType": "Orange",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 3
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 3
+        }
+      },
+      "StepNo": 23
+    },
+    {
+      "StepColorType": "Purple",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 2
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 3
+        }
+      },
+      "StepNo": 24
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 2
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 4
+        }
+      },
+      "StepNo": 25
+    },
+    {
+      "StepColorType": "Red",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 2
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 4
+        }
+      },
+      "StepNo": 26
+    },
+    {
+      "StepColorType": "Purple",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 2
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 4
+        }
+      },
+      "StepNo": 27
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 2
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 28
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 2
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 29
+    },
+    {
+      "StepColorType": "Orange",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 2
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 30
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 1
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 31
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 1
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 32
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 0,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 1
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 33
+    },
+    {
+      "StepColorType": "Orange",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 1
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 34
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 35
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 2,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 36
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 3,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 4,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 37
+    },
+    {
+      "StepColorType": "Green",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Blue": {
+          "Row": 2,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 38
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 2,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 3,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 39
+    },
+    {
+      "StepColorType": "Green",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 3
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 40
+    },
+    {
+      "StepColorType": "Green",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 4
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 41
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 5
+        },
+        "DarkYellow": {
+          "Row": 2,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 42
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 0,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 1,
+          "Column": 5
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 43
+    },
+    {
+      "StepColorType": "Blue",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 0,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 2,
+          "Column": 5
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 3,
+          "Column": 5
+        }
+      },
+      "StepNo": 44
+    },
+    {
+      "StepColorType": "Red",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 4
+        },
+        "Green": {
+          "Row": 0,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 3,
+          "Column": 5
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 4,
+          "Column": 5
+        }
+      },
+      "StepNo": 45
+    },
+    {
+      "StepColorType": "Green",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Green": {
+          "Row": 0,
+          "Column": 3
+        },
+        "Blue": {
+          "Row": 3,
+          "Column": 5
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 4,
+          "Column": 5
+        }
+      },
+      "StepNo": 46
+    },
+    {
+      "StepColorType": "Green",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Green": {
+          "Row": 0,
+          "Column": 4
+        },
+        "Blue": {
+          "Row": 3,
+          "Column": 5
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 4,
+          "Column": 5
+        }
+      },
+      "StepNo": 47
+    },
+    {
+      "StepColorType": "Red",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 3
+        },
+        "Green": {
+          "Row": 0,
+          "Column": 5
+        },
+        "Blue": {
+          "Row": 3,
+          "Column": 5
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 4,
+          "Column": 5
+        }
+      },
+      "StepNo": 48
+    },
+    {
+      "StepColorType": "Red",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 2
+        },
+        "Green": {
+          "Row": 0,
+          "Column": 5
+        },
+        "Blue": {
+          "Row": 3,
+          "Column": 5
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 4,
+          "Column": 5
+        }
+      },
+      "StepNo": 49
+    },
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 0,
+          "Column": 5
+        },
+        "Blue": {
+          "Row": 3,
+          "Column": 5
+        },
+        "DarkYellow": {
+          "Row": 1,
+          "Column": 0
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 4,
+          "Column": 5
+        }
+      },
+      "StepNo": 50
+    },
+    {
+      "StepColorType": "Red",
+      "BoxesPosition": {
+        "Red": {
+          "Row": 1,
+          "Column": 1
+        },
+        "Green": {
+          "Row": 0,
+          "Column": 5
+        },
+        "Blue": {
+          "Row": 3,
+          "Column": 5
+        },
+        "DarkYellow": {
+          "Row": 0,
+          "Column": 0
+        },
+        "Orange": {
+          "Row": 4,
+          "Column": 0
+        },
+        "Purple": {
+          "Row": 4,
+          "Column": 5
+        }
+      },
+      "StepNo": 51
+    }
+  ],
+  "MatrixRowCount": 5,
+  "MatrixColumnCount": 6,
+  "Boxes": [
+    {
+      "Row": 1,
+      "Column": 4,
+      "Color": "Red",
+      "Direction": "Left"
+    },
+    {
+      "Row": 1,
+      "Column": 2,
+      "Color": "Green",
+      "Direction": "Right"
+    },
+    {
+      "Row": 0,
+      "Column": 3,
+      "Color": "Blue",
+      "Direction": "Down"
+    },
+    {
+      "Row": 4,
+      "Column": 3,
+      "Color": "DarkYellow",
+      "Direction": "Up"
+    },
+    {
+      "Row": 3,
+      "Column": 4,
+      "Color": "Orange",
+      "Direction": "Left"
+    },
+    {
+      "Row": 3,
+      "Column": 0,
+      "Color": "Purple",
+      "Direction": "Right"
+    }
+  ],
+  "Targets": [
+    {
+      "Row": 1,
+      "Column": 0,
+      "Color": "Red"
+    },
+    {
+      "Row": 0,
+      "Column": 5,
+      "Color": "Green"
+    },
+    {
+      "Row": 3,
+      "Column": 5,
+      "Color": "Blue"
+    },
+    {
+      "Row": 0,
+      "Column": 0,
+      "Color": "DarkYellow"
+    },
+    {
+      "Row": 4,
+      "Column": 0,
+      "Color": "Orange"
+    },
+    {
+      "Row": 4,
+      "Column": 5,
+      "Color": "Purple"
+    }
+  ]
+}

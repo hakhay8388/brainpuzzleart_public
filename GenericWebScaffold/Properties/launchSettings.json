@@ -1,0 +1,43 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "http://localhost/Core.GenericWebScaffold",
+      "sslPort": 0
+    },
+    "iisExpress": {
+      "applicationUrl": "http://localhost:4554",
+      "sslPort": 44382
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "MicroServiceTriggerServerPort": "6001",
+        "PublisherServerPort": "6000",
+        "MicroServiceListenServerIP": "127.0.0.1",
+        "PublisherServerIP": "127.0.0.1",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "MicroServiceListenServerPort": "6003",
+        "MicroServiceTriggerServerIP": "127.0.0.1"
+      }
+    },
+    "GenericWebScaffold": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:5001;http://localhost:5000"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "publishAllPorts": true
+    }
+  }
+}

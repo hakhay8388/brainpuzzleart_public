@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Base.Boundary\Base.Boundary.csproj" />
+    <ProjectReference Include="..\Base.Core\Base.Core.csproj" />
+    <ProjectReference Include="..\Data.Boundary\Data.Boundary.csproj" />
+    <ProjectReference Include="..\Data.GenericWebScaffold\Data.GenericWebScaffold.csproj" />
+    <ProjectReference Include="..\Integration.Managers\Integration.Managers.csproj" />
+    <ProjectReference Include="..\Integration.MicroServiceGraph\Integration.MicroServiceGraph.csproj" />
+  </ItemGroup>
+
+</Project>

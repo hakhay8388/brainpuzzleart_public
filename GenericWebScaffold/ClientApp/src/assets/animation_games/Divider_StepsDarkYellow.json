@@ -1,0 +1,88 @@
+{
+  "Level": "BPA Clever #0000",
+  "Steps": [
+    
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "DarkYellow": {
+          "Row": 0,
+          "Column": 5
+        }
+      },
+      "StepNo": 1
+    }
+    ,
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "DarkYellow": {
+          "Row": 0,
+          "Column": 4
+        }
+      },
+      "StepNo": 2
+    }
+    ,
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "DarkYellow": {
+          "Row": 0,
+          "Column": 3
+        }
+      },
+      "StepNo": 3
+    }
+    ,
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "DarkYellow": {
+          "Row": 0,
+          "Column": 2
+        }
+      },
+      "StepNo": 4
+    }
+    ,
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "DarkYellow": {
+          "Row": 0,
+          "Column": 1
+        }
+      },
+      "StepNo": 5
+    }
+    ,
+    {
+      "StepColorType": "DarkYellow",
+      "BoxesPosition": {
+        "DarkYellow": {
+          "Row": 0,
+          "Column": 0
+        }
+      },
+      "StepNo": 6
+    }
+  ],
+  "MatrixRowCount": 1,
+  "MatrixColumnCount": 7,
+  "Boxes": [
+    {
+      "Row": 0,
+      "Column": 6,
+      "Color": "DarkYellow",
+      "Direction": "Left"
+    }
+  ],
+  "Targets": [
+    {
+      "Row": 0,
+      "Column": 0,
+      "Color": "DarkYellow"
+    }
+  ]
+}

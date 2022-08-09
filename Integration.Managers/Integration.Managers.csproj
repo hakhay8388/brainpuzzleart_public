@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="nDataManagers\nDataLoaders\**" />
+    <EmbeddedResource Remove="nDataManagers\nDataLoaders\**" />
+    <None Remove="nDataManagers\nDataLoaders\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.15.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.15.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Base.Boundary\Base.Boundary.csproj" />
+    <ProjectReference Include="..\Base.Communication\Base.Communication.csproj" />
+    <ProjectReference Include="..\Base.Core\Base.Core.csproj" />
+    <ProjectReference Include="..\Base.Data\Base.Data.csproj" />
+    <ProjectReference Include="..\Base.FileData\Base.FileData.csproj" />
+    <ProjectReference Include="..\Data.Boundary\Data.Boundary.csproj" />
+    <ProjectReference Include="..\Data.GenericWebScaffold\Data.GenericWebScaffold.csproj" />
+    <ProjectReference Include="..\Integration.MicroServiceGraph\Integration.MicroServiceGraph.csproj" />
+  </ItemGroup>
+
+</Project>
